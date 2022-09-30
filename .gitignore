@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/"F--- It I'll Do It Myself"/[Ll]ibrary/
-/"F--- It I'll Do It Myself"/[Tt]emp/
-/"F--- It I'll Do It Myself"/[Oo]bj/
-/"F--- It I'll Do It Myself"/[Bb]uild/
-/"F--- It I'll Do It Myself"/[Bb]uilds/
-/"F--- It I'll Do It Myself"/[Ll]ogs/
-/"F--- It I'll Do It Myself"/[Mm]emoryCaptures/
+F--- It I'll Do It Myself/[Ll]ibrary/
+F--- It I'll Do It Myself/[Tt]emp/
+F--- It I'll Do It Myself/[Oo]bj/
+F--- It I'll Do It Myself/[Bb]uild/
+F--- It I'll Do It Myself/[Bb]uilds/
+F--- It I'll Do It Myself/[Ll]ogs/
+F--- It I'll Do It Myself/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/"F--- It I'll Do It Myself"/[Aa]ssets/**/*.meta
